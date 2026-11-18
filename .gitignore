@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Competition data is NOT stored in this repo (download from Kaggle)
+data/*.csv
+data/*.zip
+submission.csv
+outputs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
